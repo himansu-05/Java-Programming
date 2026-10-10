@@ -1,4 +1,4 @@
-package com.practice.math;
+package p01_maths;
 
 public class NeonNumber {
     public static void main(String[] args) {

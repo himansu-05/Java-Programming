@@ -1,4 +1,4 @@
-package com.practice.math;
+package p01_maths;
 
 import java.util.Scanner;
 
