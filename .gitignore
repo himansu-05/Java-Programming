@@ -1,8 +1,20 @@
+
 ### IntelliJ IDEA ###
+.idea/
+*.iml
+
+### Java compiled files ###
+*.class
+
+### Build output ###
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-Java-Programming.iml
+
+### Build tools ###
+target/
+build/
+
 
 ### Eclipse ###
 .apt_generated
